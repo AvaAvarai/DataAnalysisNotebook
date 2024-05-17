@@ -9,6 +9,14 @@ should support any numeric tabular dataset with a 'class' column, .csv files pro
 ## Currently supports
 
 - Pairplot
+
+### Lossless Techniques
+
 - Parallel coordinates
 - Andrew's curves
 - Radviz
+
+### Lossy Techniques
+
+- T-SNE
+- PCA
