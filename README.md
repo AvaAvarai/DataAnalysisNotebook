@@ -1,6 +1,6 @@
 # DataAnalysisNotebook
 
-This data analysis notebook is an introductory method using static analysis and visualizations.  
+This data analysis notebook is using static analysis and visualizations.  
 This notebook demonstrates analysis of scientific data.  
 
 The notebook.ipynb contains current content, still a work in progress.  
