@@ -18,5 +18,5 @@ should support any numeric tabular dataset with a 'class' column, .csv files pro
 
 ### Lossy Techniques
 
-- T-SNE
+- T-SNE (2D and 3D)
 - PCA
