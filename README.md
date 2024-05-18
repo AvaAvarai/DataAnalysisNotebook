@@ -30,3 +30,4 @@ Lossy Techniques:
 Classification Methods:
 
 - Decision Tree
+- Support Vector Machine with Optimal Parameter Search
