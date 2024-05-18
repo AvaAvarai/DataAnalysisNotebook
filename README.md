@@ -7,9 +7,7 @@ Datasets supported are numeric tabular datasets with a 'class' column, .csv file
 
 ## Notebooks
 
-### data_analysis.ipynb
-
-Currently supports:
+### data_analysis.ipynb Contents
 
 - Pairplot
 
@@ -30,3 +28,7 @@ Classification Methods:
 - LDA
 - Decision Tree with feature importance
 - Support Vector Machine with optimal parameter search
+
+## License
+
+This work is for demonstrative purposes and is freely available for personal and commercial use under the MIT License, please see LICENSE for full details.
