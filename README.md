@@ -26,3 +26,7 @@ Lossy Techniques:
 - T-SNE
 - PCA
 - LDA
+
+Classification Methods:
+
+- Decision Tree
