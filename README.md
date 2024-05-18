@@ -26,8 +26,9 @@ Lossy Techniques:
 - T-SNE
 - PCA
 - LDA
+- Starchart
 
 Classification Methods:
 
-- Decision Tree
-- Support Vector Machine with Optimal Parameter Search
+- Decision Tree with feature importance
+- Support Vector Machine with optimal parameter search
