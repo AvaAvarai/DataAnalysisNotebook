@@ -27,6 +27,7 @@ Classification Methods:
 - LDA
 - Decision Tree with feature importance
 - Support Vector Machine with optimal parameter search
+- Gaussian Naive Bayes
 
 ## License
 
