@@ -2,7 +2,7 @@
 
 This data analysis notebook demonstrates lossless, lossy visualizations techinques and classification methods. We demonstrate analysis of scientific data on hot-swappable datasets.  
 
-Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder.  
+Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder. For testing purposes we focus on fisher_iris.csv, others included.  
 
 ## Notebooks
 
