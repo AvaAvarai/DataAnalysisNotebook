@@ -1,15 +1,13 @@
-# DataAnalysisNotebook
+# Data Analysis Notebook
 
-This data analysis notebook uses static analysis and visualizations techinques.  
+This data analysis notebook demonstrates lossless, lossy visualizations techinques and classification methods.  
 We demonstrate analysis of scientific data on hot-swappable datasets.  
 
 Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder.  
 
-methods notebook contains standardly used methods, further application with specific methods will be in their own notebook.  
-
 ## Notebooks
 
-### methods.ipynb
+### data_analysis.ipynb
 
 Currently supports:
 
@@ -19,14 +17,14 @@ Lossless Techniques:
 
 - Parallel coordinates
 - Andrew's curves
-- Radviz
+- Star plot
 
 Lossy Techniques:
 
+- Radviz
 - T-SNE
 - PCA
 - LDA
-- Starchart
 
 Classification Methods:
 
