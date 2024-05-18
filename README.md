@@ -1,24 +1,27 @@
 # DataAnalysisNotebook
 
-This data analysis notebook uses static analysis and visualizations.  
-This notebook demonstrates analysis of scientific data on swappable datasets.  
+This data analysis notebook uses static analysis and visualizations techinques.  
+We demonstrate analysis of scientific data on hot-swappable datasets.  
 
-The notebook.ipynb contains current content, still a work in progress.  
-should support any numeric tabular dataset with a 'class' column, .csv files provided in datasets folder.
+Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder.  
 
-methods notebook contains standardly used methods, further application with specific methods will be in their own notebook.
+methods notebook contains standardly used methods, further application with specific methods will be in their own notebook.  
 
-## Currently supports
+## Notebooks
+
+### methods.ipynb
+
+Currently supports:
 
 - Pairplot
 
-### Lossless Techniques
+Lossless Techniques:
 
 - Parallel coordinates
 - Andrew's curves
 - Radviz
 
-### Lossy Techniques
+Lossy Techniques:
 
 - T-SNE
 - PCA
