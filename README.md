@@ -19,6 +19,7 @@ Lossless Visualizations:
 - Parallel coordinates
   - Parallel hulls
   - Isolated region associative rules search
+  - Pure region associative rules search
 - Andrew's curves
 - Star plot
 
