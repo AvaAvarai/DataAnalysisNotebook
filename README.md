@@ -4,15 +4,16 @@ This data analysis notebook demonstrates lossless, lossy visualizations techinqu
 
 Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder. For testing purposes we focus on fisher_iris.csv, others included.  
 
-## Notebooks
+## Notebook
 
-### data_analysis.ipynb Contents
+### data_analysis.ipynb
 
 - Pairplot
 
 Lossless Visualizations:
 
 - Parallel coordinates
+  - Parallel hulls
 - Andrew's curves
 - Star plot
 
