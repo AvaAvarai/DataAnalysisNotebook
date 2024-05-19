@@ -4,6 +4,10 @@ This data analysis notebook demonstrates lossless, lossy visualizations techinqu
 
 Datasets supported are numeric tabular datasets with a 'class' column, .csv files provided in datasets folder. For testing purposes we focus on fisher_iris.csv, others included.  
 
+The notebook is more easily viewed with a Jupyter viewer, web options include:
+
+- [nbviewer](https://nbviewer.org/github/AvaAvarai/DataAnalysisNotebook/blob/main/data_analysis.ipynb)
+
 ## Notebook
 
 ### data_analysis.ipynb
