@@ -14,6 +14,7 @@ Lossless Visualizations:
 
 - Parallel coordinates
   - Parallel hulls
+  - Isolated region associative rules search
 - Andrew's curves
 - Star plot
 
@@ -27,9 +28,10 @@ Classification Methods:
 
 - LDA
 - Decision Tree with feature importance
-- Support Vector Machine with optimal parameter search
+- Support Vector Machine
+  - optimal parameter search
 - Gaussian Naive Bayes
 
 ## License
 
-This repository and all contents are freely available for personal and commercial use under the MIT License, see LICENSE for details.
+This repository and all contents contained are freely available for personal and commercial use under the MIT License, see LICENSE file for full license details.
