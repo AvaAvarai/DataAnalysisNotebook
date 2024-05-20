@@ -20,6 +20,7 @@ Lossless Visualizations:
   - Parallel hulls
 - Andrew's curves
 - Star plot
+- GLC-Linear
 
 Lossy Visualizations:
 
