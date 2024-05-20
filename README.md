@@ -12,14 +12,14 @@ The notebook is more easily viewed with a Jupyter viewer, web options include:
 
 ### data_analysis.ipynb
 
+- Attribute range analysis
+  - Pure subinterval search
 - Pairplot
 
 Lossless Visualizations:
 
 - Parallel coordinates
   - Parallel hulls
-  - Isolated region associative rules search
-  - Pure region associative rules search
 - Andrew's curves
 - Star plot
 
