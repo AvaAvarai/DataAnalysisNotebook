@@ -12,8 +12,6 @@ The notebook is more easily viewed with a Jupyter viewer, web options include:
 
 ### data_analysis.ipynb
 
-- Attribute range analysis
-  - Pure subinterval search
 - Pairplot
 
 Lossless Visualizations:
@@ -31,6 +29,7 @@ Lossy Visualizations:
 
 Classification Methods:
 
+- Associative Rules (no reduction, only single-pass.)
 - LDA
 - Decision Tree with feature importance
 - Support Vector Machine
