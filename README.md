@@ -30,6 +30,7 @@ Lossy Visualizations:
 Classification Methods:
 
 - Associative Rules (no reduction, only single-pass.)
+  - Parallel coordinates interval visualization
 - LDA
 - Decision Tree with feature importance
 - Support Vector Machine
